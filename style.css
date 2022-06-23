@@ -10,11 +10,12 @@ input[type=text], input[type=password] {
 }
 
 
-modal{
+.modal{
 
 padding: 20px;
-width: auto;
-
+width: 450px;
+margin: auto;
+padding: 10px;
 }
 
 
